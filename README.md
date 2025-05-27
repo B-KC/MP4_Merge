@@ -22,7 +22,7 @@ Files are grouped by the 4-digit session number (e.g., `0123`) and sorted by cha
 ## Usage (Executable)
 The standalone `mp4_merge.exe` is for Windows 10 and up and includes `ffmpeg.exe` and `ffprobe.exe`.
 
-1. Download `mp4_merge.exe` from the [Releases](https://github.com/yourusername/mp4-merge/releases) page.
+1. Download `mp4_merge.exe` from the [Releases](https://github.com/B-KC/mp4-merge/releases) page.
 2. Open a Command Prompt and navigate to the folder containing `mp4_merge.exe`:
 3. Run the executable:
 4. Enter the full path to the folder containing your GoPro MP4 files (e.g., `C:\Videos\GoPro`).
